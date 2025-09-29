@@ -23,15 +23,15 @@
 
 ## 🚀 Tech Stack
 
-**Languages:** Python • JavaScript • Java • HTML • CSS
+**Languages:** Python • JavaScript • Java
 
-**Backend:** Django • FastAPI
+**Backend:** Django • RestAPI • Rest Framework
 
-**Frontend:** React • Bootstrap
+**Frontend:** React • Bootstrap • HTML • CSS • Mantine UI
 
-**Database:** PostgreSQL • MySQL • SQLite
+**Database:** OracleSQL • PostgreSQL • MySQL • SQLite
 
-**Tools:** Azure • Figma • Postman • Jira • Git
+**Tools:** Figma • Postman • Jira • Git • Github
 
 ---
 
