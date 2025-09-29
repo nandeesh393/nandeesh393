@@ -91,20 +91,6 @@ const nandeesh = {
 
 <div align="center">
   
-### 💬 Open to opportunities in Full-Stack Development, AI/ML, and Software Engineering roles
-
-![Profile Views](https://visitcount.itsvg.in/api?id=nandeesh393&icon=6&color=3)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Random Dev Quote"/>
-</div>
-
-<div align="center">
-  
   **⭐️ From [nandeesh393](https://github.com/nandeesh393)**
   
 </div>
