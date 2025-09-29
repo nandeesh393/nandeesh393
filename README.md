@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+I am Nandeesh A M, an engineering graduate specialized in Computer Science with an overall CGPA of 9.11. I worked as a Junior Software Engineer Intern at Nirmith AI Labs, specializing as a backend developer for AI-powered applications.<br><br>In my academic journey, I completed my Pre-University Course (PUC) in PCMB from Vasishta PU College, Ballari, in 2021, securing 90.16%.<br><br>I have a strong foundation in programming languages such as Java and Python, along with web development skills in HTML, CSS, React.js, and Django, as well as UX design using aFigma.<br><br>Throughout my academic journey, I gained hands-on experience by building impactful projects such as:<br>Attendance Management System using React and Django<br>PRAGATHI – a government project designed to monitor inspections by Zilla Panchayat officers<br>PromptMatrix – an AI-driven platform to encourage creativity among writers<br>Preppanda – an AI-powered learning app with features like summarizers and study helpers, built using Flutter and Django.<br><br>I have also completed internships, including working as a UX/UI developer on the PromptMatrix platform at Calidad Infotech LLP, and as a backend developer for the Preppanda project at Nirmith AI Labs.<br><br>Beyond academics, I actively participated in college events, serving as a coordinator for an IEEE Ideathon event. I was also a core member of the college coding club, which we organized for our juniors, and I proudly represented my college football team in VTU Zonal Tournaments, all while maintaining distinction throughout all semesters.<br>
 
-<!--
-**nandeesh393/nandeesh393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nandeesh.nandu_393) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nandeesh393) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amnandeesh2003@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nandeesh393&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nandeesh393&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nandeesh393&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=nandeesh393&icon=0&color=13)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
