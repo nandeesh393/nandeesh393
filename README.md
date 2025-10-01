@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Nandeesh
+# 👋 <h1>Hi, I'm Nandeesh</h1>
 
 ### <h2>Computer Science Graduate (9.11 CGPA)</h2>
 
