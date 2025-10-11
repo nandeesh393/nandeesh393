@@ -2,7 +2,7 @@
 
 # 👋 <h1>Hi, I'm Nandeesh</h1>
 
-### <h2>Computer Science Graduate (9.11 CGPA)</h2>
+### <h2>Computer Science Graduate (9.12 CGPA)</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nandeesh393)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:amnandeesh2003@gmail.com)
