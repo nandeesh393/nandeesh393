@@ -51,7 +51,7 @@
 
 ## ✨ Why Work With Me?
 
-✅ Strong academic foundation with **9.11 CGPA**  
+✅ Strong academic foundation with **9.12 CGPA**  
 ✅ Hands-on experience in **AI and full-stack development**  
 ✅ Quick learner who adapts to new technologies  
 ✅ Team player with **Agile/Scrum** experience  
