@@ -23,15 +23,15 @@
 
 ## 🚀 Tech Stack
 
-**Languages:** Python • JavaScript • Java
+**Languages:** Python • JavaScript • Java.
 
-**Backend:** Django • RestAPI • Rest Framework
+**Backend:** Django • RestAPI • Rest Framework.
 
-**Frontend:** React • Bootstrap • HTML • CSS • Mantine UI
+**Frontend:** React • Bootstrap • HTML • CSS • Mantine UI.
 
-**Database:** OracleSQL • PostgreSQL • MySQL • SQLite
+**Database:** OracleSQL • PostgreSQL • MySQL • SQLite.
 
-**Tools:** Figma • Postman • Jira • Git • Github
+**Tools:** Figma • Postman • Jira • Git • Github.
 
 ---
 
